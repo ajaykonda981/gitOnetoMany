@@ -26,3 +26,8 @@
 /gitOnetoMany/gitOnetoMany/obj/gitOnetoMany.csproj.nuget.dgspec.json
 /gitOnetoMany/gitOnetoMany/obj/project.assets.json
 /gitOnetoMany/gitOnetoMany/obj/project.nuget.cache
+*.bin
+/.gitignore
+/gitOnetoMany/gitOnetoMany/obj/Debug/net8.0/gitOnetoMany.csproj.AssemblyReference.cache
+/gitOnetoMany/gitOnetoMany/obj/Debug/net8.0/gitOnetoMany.csproj.AssemblyReference.cache
+/.gitignore
